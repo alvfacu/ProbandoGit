@@ -45,8 +45,8 @@ private DefaultTableModel model;
     String[] nietzsche = { "Friedrich", "Nietzsche", "1844-1900" };
     model.addRow(nietzsche);
 
-    String[] arendt = { "Hannah", "Arendt", "1906-1975" };
-    model.addRow(arendt);
+    String[] hola= { "Hannah", "Arendt", "1906-1975" };
+    model.addRow(hola);
     
     String[] facundo = { "Facundo", "Alvarez", "1993-Infinit" };
     model.addRow(facundo);
