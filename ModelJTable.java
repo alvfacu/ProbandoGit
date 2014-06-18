@@ -39,7 +39,7 @@ private DefaultTableModel model;
     String[] kierkegaard = { "Soren", "Kierkegaard", "1813-1855" };
     model.addRow(kierkegaard);
 
-    String[] kant = { "Immanuel", "Kant", "1724-1804" };
+    String[] kant = { "Martin", "Guereta", "1724-1804" };
     model.addRow(kant);
 
     String[] nietzsche = { "Friedrich", "Nietzsche", "1844-1900" };
