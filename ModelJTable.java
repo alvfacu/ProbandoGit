@@ -47,7 +47,10 @@ private DefaultTableModel model;
 
     String[] arendt = { "Hannah", "Arendt", "1906-1975" };
     model.addRow(arendt);
-
+    
+    String[] facundo = { "Facundo", "Alvarez", "1993-Infinit" };
+    model.addRow(facundo);
+   
     table = new JTable(model);
 
     JButton addButton = new JButton("Add Philosopher");
